@@ -21,7 +21,7 @@ I hold a Master’s degree in Information Technology from the University of Stut
   _April 2025 – Present_
 
 - **MSc in Information Technology (INFOTECH)** – University of Stuttgart, Germany  
-  _September 2022 – September 2024_
+  _October 2022 – September 2024_
 
 - **BSc in Information Engineering Technology (Networking)** – German University in Cairo (GUC), Egypt  
   _October 2017 – July 2022_  
