@@ -1,11 +1,11 @@
 ---
 title: "Towards Identifying Intent of Data Errors"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-01-01-towards-identifying-intent-of-data-errors
 excerpt: 'This paper proposes a framework for identifying the intent behind data errors, advancing the understanding of error provenance in data management.'
 date: 2025-01-01
-venue: 'Proceedings of the VLDB Endowment'
+venue: 'VLDB Workshop (Proceedings of the VLDB Endowment, ISSN 2150-8097)'
 citation: 'Abdelmaksoud, Mohamed, Konrad Rieck, and Ziawasch Abedjan. &quot;Towards Identifying Intent of Data Errors.&quot; <i>Proceedings of the VLDB Endowment</i>. ISSN 2150-8097.'
 ---
 
