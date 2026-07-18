@@ -9,17 +9,18 @@ redirect_from:
 
 ## About Me
 
-I’m a Doctoral Researcher in the D²IP Group at BIFOLD, TU Berlin, working under Prof. Dr. Ziawasch Abedjan since April 2025. My research focuses on data quality, data cleaning, and anomaly detection in large-scale systems — in particular, understanding the *intent* behind data errors: whether erroneous values were introduced accidentally or deliberately (e.g., fraud, fairness masking, or obfuscation), and what that means for how pipelines should handle them.
+I’m a Doctoral Researcher in the D²IP Group at BIFOLD, TU Berlin, working under Prof. Dr. Ziawasch Abedjan since April 2025. My research focuses on data quality, data cleaning, and anomaly detection in large-scale systems.
 
 I hold a Master’s degree in Information Technology from the University of Stuttgart, where I worked on robust anomaly detection in time series using adaptive model selection (published as RAMSeS at ICDE 2026). My work spans machine learning, NLP, and data engineering — from scalable dashboard development and user profiling to production-level ML pipelines.
+
+📧 Contact: [mohamed@tu-berlin.de](mailto:mohamed@tu-berlin.de)
 
 ---
 
 ## News
 
-- **July 2026** — Submitted **ANUBIS: Towards Intent Attribution for Erroneous Cells in Tabular Data** (with Konrad Rieck and Ziawasch Abedjan) to PVLDB. [Code & artifacts](https://github.com/Maxoud99/Anubis).
-- **2026** — Selected for the **[Software Campus](https://softwarecampus.de/)** IT leadership programme (2026 cohort), leading the **ANUBIS** research project on agentic data debugging for data pipelines, with **Snowflake** as industry partner.
-- **2026** — **RAMSeS** accepted at **IEEE ICDE 2026**.
+- **2026** — Selected for the **[Software Campus](https://softwarecampus.de/)** IT leadership programme (2026 cohort), leading a research project on data quality in data pipelines with **Snowflake** as industry partner.
+- **2026** — **RAMSeS: Robust and Adaptive Model Selection for Time-Series Anomaly Detection Algorithms** accepted at **IEEE ICDE 2026**.
 
 ---
 
